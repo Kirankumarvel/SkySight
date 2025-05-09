@@ -35,7 +35,7 @@ SkySight/
     └── style.css       # Custom styles
 ```
 ## Image
-https://github.com/Kirankumarvel/SkySight/blob/main/static/SkySight.png
+![SkySight ](https://github.com/Kirankumarvel/SkySight/blob/main/static/SkySight.png)
 
 ## Installation
 
