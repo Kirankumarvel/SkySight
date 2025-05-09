@@ -34,7 +34,8 @@ SkySight/
 └── static/             # Static assets (CSS, images, etc.)
     └── style.css       # Custom styles
 ```
-
+## Image
+https://github.com/Kirankumarvel/SkySight/blob/main/static/SkySight.png
 
 ## Installation
 
