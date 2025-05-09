@@ -1,4 +1,5 @@
-# SkySight - Weather Insights at Your Fingertips
+# SkySight 🌤️🌦️🌍 - Real-time Weather Insights at Your Fingertips 🌡️☁️
+
 
 **SkySight** is your ultimate weather dashboard, delivering accurate, real-time weather updates for any city worldwide. Built with simplicity and functionality in mind, SkySight provides user-friendly access to weather details using the reliable [WeatherAPI](https://www.weatherapi.com/).
 
